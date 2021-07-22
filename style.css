@@ -1,0 +1,40 @@
+
+body{
+    margin-left: 50px;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20;
+    font-family: cursive;
+    font-style: italic;
+
+}
+h1{ 
+    color: blue ;
+    border: solid ; 
+    font-style : italic;
+    margin-top: 50px;
+    
+}
+
+*{font-style : italic ;}
+
+
+
+.Icons{
+    display: flex ;
+    flex-direction: column-reverse ;
+    background-color: #1483C8 ; 
+    justify-content: space-between ;
+}
+
+
+
+.dummy{
+    background-color: #1483C8
+}
+
+a{
+    color: #ffffff;
+}
